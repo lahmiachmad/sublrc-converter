@@ -1,6 +1,10 @@
 # SUBLRC-converter
 LRC and ASS text format Converter
 
+<h2>Features</h2>
+   <p>- Convert LRC to ASS text format.</p>
+   <p>- Sync ASS start time based on end time of previous line.</p>
+   <p>- Sync ASS end time based on start time of next line.</p>
 
 <h2>Update Log</h2>
 
