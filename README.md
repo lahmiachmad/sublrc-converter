@@ -2,7 +2,6 @@
 LRC and ASS text format Converter
 
 <h2>Update Log</h2>
-<br/>
 
 <h3>Version 1.3 (Mar 15, 2022)</h3>
   <p>- Macro VBA function for copy, paste, and clear text button has been added.</p>
@@ -15,7 +14,6 @@ LRC and ASS text format Converter
  <p>- A lot of formulas has been rewrited.</p>
  <p>- "ABOUT" page has been added.</p>
 
-
 <h3>Version 1.1 (Feb 01, 2022)</h3>
 
  
@@ -23,5 +21,5 @@ LRC and ASS text format Converter
  
 
 
-<p> LRC and ASS text format Converter</p>
+<p><b>&#169;2022 Lahmi Achmad. All rights reserved.</b></p>
 
