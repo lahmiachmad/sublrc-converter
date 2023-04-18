@@ -7,7 +7,7 @@ LRC and ASS text format Converter
    <p>- Sync ASS end time based on start time of next line.</p>
 
 <h2>Requirements</h2>
-   <p>- <b>Microsoft</b> Excel 2013 or above to process text format conversion.</p>
+   <p>- <b>Microsoft Excel</b> 2013 or above to process text format conversion.</p>
    <p>- <b>Aegisub</b> to copy & paste text line.</p>
    <p>- <b>Minilyrics</b>, <b>notepad</b>, or <b>etc</b> to edit LRC files.</p>
 
