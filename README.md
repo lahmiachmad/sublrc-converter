@@ -1,4 +1,4 @@
-# SUBLRC-converter
+# SUBLRC Converter
 LRC and ASS text format Converter
 
 <h2>Features</h2>
