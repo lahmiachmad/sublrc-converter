@@ -9,7 +9,7 @@ LRC and ASS text format Converter
 <h2>Requirements</h2>
    <p>- <b>Microsoft</b> Excel 2013 or above to process text format conversion.</p>
    <p>- <b>Aegisub</b> to copy & paste text line.</p>
-   <p>- <b>Minilyrics</b>, notepad, or etc to edit LRC files.</p>
+   <p>- <b>Minilyrics</b>, <b>notepad</b>, or <b>etc</b> to edit LRC files.</p>
 
 <h2>Update Log</h2>
 
