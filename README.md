@@ -1,7 +1,17 @@
 # SUBLRC-converter
 LRC and ASS text format Converter
 
-
+<html>
+  <head>
+    <style>
+      p {
+      text indent: 50px;
+      }
+    
+    </style>
+  </head>
+  
+  <body>
 <h2>Update Log</h2>
 
   <h3>Version 1.3 (Mar 15, 2022)</h3>
@@ -19,3 +29,5 @@ LRC and ASS text format Converter
 
 <br/><br/><br/>
 <p style="text-align: right;"><b>&#169; 2022 <a href="https://lahmiachmad.github.io">Lahmi Achmad</a>. All rights reserved.</b></p>
+</body>
+</html>
