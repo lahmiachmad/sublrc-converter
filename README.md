@@ -23,5 +23,4 @@ LRC and ASS text format Converter
      <p>- ASS to LRC text format converter has been created.</p>
      <p>- Maximum 200 edit text line has been created.</p>
   
-<br/><br/><br/>
 <p><b>&#169; 2022 <a href="https://lahmiachmad.github.io">Lahmi Achmad</a>. All rights reserved.</b></p>
