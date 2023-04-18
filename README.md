@@ -1,13 +1,7 @@
 # SUBLRC-converter
 LRC and ASS text format Converter
 
-<head>
-<style>
-   p {text-indent: 10px;}
-</style>
-</head>
 
-<body>
 <h2>Update Log</h2>
 
   <h3>Version 1.3 (Mar 15, 2022)</h3>
@@ -21,14 +15,7 @@ LRC and ASS text format Converter
       <p>- A lot of formulas has been rewrited.</p>
       <p>- "ABOUT" page has been added.</p>
 
-
 <h3>Version 1.1 (Feb 01, 2022)</h3>
 
- 
- 
- 
-
 <br/><br/><br/>
-<p style="text-align: right;"><b>&#169; 2022 Lahmi Achmad. All rights reserved.</b></p>
-</body>
-
+<p style="text-align: right;"><b>&#169; 2022 <a href="https://lahmiachmad.github.io">Lahmi Achmad</a>. All rights reserved.</b></p>
