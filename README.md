@@ -1,25 +1,22 @@
 # SUBLRC-converter
 LRC and ASS text format Converter
 
-<h1>Update Log</h1>
+<h2>Update Log</h2>
 <br/>
 
-<h2>Version 1.3 (Mar 15, 2022)</h2>
-<li>
- <ul>Macro VBA function for copy, paste, and clear text button has been added.</ul>
- <ul>LRC time stamp remover has been deleted.</ul>
-</li>
+<h3>Version 1.3 (Mar 15, 2022)</h3>
+  <p>- Macro VBA function for copy, paste, and clear text button has been added.</p>
+  <p>- LRC time stamp remover has been deleted.</p>
 
-<h2> Version 1.2 (Feb 05, 2022</h2>
-<li>
- <ul>ASS start & end time synchronizer feature has been added.</ul>
- <ul>LRC time stamp remover feature has been added.</ul>
- <ul>Maximum edit text lines has been upgraded from 200 to 500.</ul>
- <ul>A lot of formulas has been rewrited.</ul>
- <ul>"ABOUT" page has been added</ul>
-</li>
+<h3> Version 1.2 (Feb 05, 2022</h3>
+ <p>- ASS start & end time synchronizer feature has been added.</p>
+ <p>- LRC time stamp remover feature has been added.</p>
+ <p>- Maximum edit text lines has been upgraded from 200 to 500.</p>
+ <p>- A lot of formulas has been rewrited.</p>
+ <p>- "ABOUT" page has been added.</p>
 
-<h2>Version 1.1 (Feb 01, 2022)</h2>
+
+<h3>Version 1.1 (Feb 01, 2022)</h3>
 
  
  
