@@ -1,7 +1,10 @@
 # SUBLRC Converter
 LRC and ASS text format Converter
 
-<h2>Screenshot</h2>
+<h2>Download</h2>
+<b><a href="https://github.com/lahmiachmad/sublrc-converter/tree/main/Released">GET FILE</a></b>
+
+<h2>Preview</h2>
 <a href="https://raw.githubusercontent.com/lahmiachmad/sublrc-converter/main/Documentation/Img%2001.jpg" target="_blank"><img src="Documentation\Img 01.jpg" style="width: 480px; height: auto;"></a>
 <br/>
 <br/>
@@ -51,5 +54,4 @@ LRC and ASS text format Converter
 Logo image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=304757">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=304757">Pixabay.</a>
 <h2></h2>
 <br/>
-<br/>
-<p><b>&#169; 2023 <a href="https://lahmiachmad.github.io">Lahmi Achmad</a>. All rights reserved.</b></p>
+<p style="text-align: right;"><b>&#169; 2023 <a href="https://lahmiachmad.github.io">Lahmi Achmad</a>. All rights reserved.</b></p>
