@@ -1,7 +1,9 @@
 # SUBLRC Converter
 LRC and ASS text format Converter
 
-<img src="Documentation\Img 01.jpg">
+<h2>Screenshot</h2>
+<img src="Documentation\Img 01.jpg" style="width: 400px; height: 400px">
+
 <h2>Features</h2>
    <p>- Convert LRC to ASS text format.</p>
    <p>- Sync ASS start time based on end time of previous line.</p>
