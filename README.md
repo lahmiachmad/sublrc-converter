@@ -2,9 +2,9 @@
 LRC and ASS text format Converter
 
 <h2>Screenshot</h2>
-<a href="https://raw.githubusercontent.com/lahmiachmad/sublrc-converter/main/Documentation/Img%2001.jpg"><img src="Documentation\Img 01.jpg" style="width: 480; height: auto;"></a>
-<a href="https://raw.githubusercontent.com/lahmiachmad/sublrc-converter/main/Documentation/Img%2002.jpg"><img src="Documentation\Img 02.jpg" style="width: 480; height: auto;"></a>
-<a href="https://raw.githubusercontent.com/lahmiachmad/sublrc-converter/main/Documentation/Img%2003.jpg" style="width: 480; height: auto;"><img src="Documentation\Img 03.jpg"></a>
+<a href="https://raw.githubusercontent.com/lahmiachmad/sublrc-converter/main/Documentation/Img%2001.jpg" target="_blank"><img src="Documentation\Img 01.jpg" style="width: 480px; height: auto;"></a>
+<a href="https://raw.githubusercontent.com/lahmiachmad/sublrc-converter/main/Documentation/Img%2002.jpg" target="_blank"><img src="Documentation\Img 02.jpg" style="width: 480px; height: auto;"></a>
+<a href="https://raw.githubusercontent.com/lahmiachmad/sublrc-converter/main/Documentation/Img%2003.jpg" target="_blank" ><img src="Documentation\Img 03.jpg" style="width: 480px; height: auto;"></a>
 
 <h2>Features</h2>
    <p>- Convert LRC to ASS text format.</p>
