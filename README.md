@@ -2,7 +2,9 @@
 LRC and ASS text format Converter
 
 <h2>Screenshot</h2>
-<img src="Documentation\Img 01.jpg" style="width: 400px; height: 400px">
+<img src="Documentation\Img 01.jpg">
+<img src="Documentation\Img 02.jpg">
+<img src="Documentation\Img 03.jpg">
 
 <h2>Features</h2>
    <p>- Convert LRC to ASS text format.</p>
@@ -43,5 +45,7 @@ LRC and ASS text format Converter
 
 <h2>Credits</h2>
 Logo image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=304757">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=304757">Pixabay</a>
-  
+<h2></h2>
+<br/>
+<br/>
 <p><b>&#169; 2022 <a href="https://lahmiachmad.github.io">Lahmi Achmad</a>. All rights reserved.</b></p>
