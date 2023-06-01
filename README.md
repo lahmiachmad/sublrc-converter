@@ -2,7 +2,7 @@
 LRC and ASS text format Converter
 
 <h2>Download</h2>
-<b><a href="https://github.com/lahmiachmad/sublrc-converter/tree/main/Released">GET FILE</a></b>
+<b><a href="https://github.com/lahmiachmad/sublrc-converter/tree/main/Released" target="_blank">GET FILE</a></b>
 
 <h2>Preview</h2>
 <a href="https://raw.githubusercontent.com/lahmiachmad/sublrc-converter/main/Documentation/Img%2001.jpg" target="_blank"><img src="Documentation\Img 01.jpg" style="width: 480px; height: auto;"></a>
