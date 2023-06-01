@@ -13,9 +13,15 @@ LRC and ASS text format Converter
 
 <h2>Update Log</h2>
 
+  <h3>Version 1.4 (Jun 1, 2023)</h3>
+     <p>- Interface has been changed.</p>
+	 <p>- Macro VBA Syntax has been updated</p>
+	 <p>- Maximum edit text lines has been upgraded from 1000 to 2000.</p>
+	 
   <h3>Version 1.3 (Mar 15, 2022)</h3>
      <p>- Macro VBA function for copy, paste, and clear text button has been added.</p>
      <p>- LRC time stamp remover has been deleted.</p>
+	 <p>- Maximum edit text lines has been upgraded from 500 to 1000.</p>
 
   <h3> Version 1.2 (Feb 05, 2022)</h3>
      <p>- ASS start & end time synchronizer feature has been added.</p>
